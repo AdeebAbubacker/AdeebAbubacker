@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Adeeb Abubacker</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="left">About me 🅰️🅱️🅾️: <img align="center" src="" alt="adeeb abubacker" height="30" width="40" /></h3> 
+<h3 align="left">About Me</h3> 
 - I work as a Flutter developer at Cyberfort Technologies, where I have the exciting opportunity to be on the cutting edge of mobile application development. In my role, I'm responsible for designing and implementing cross-platform mobile applications using the Flutter framework. This cutting-edge technology allows us to create robust and visually appealing apps for both Android and iOS platforms.
 
 - 💬 Ask me about **Flutter,React**
