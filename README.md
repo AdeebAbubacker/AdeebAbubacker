@@ -6,11 +6,16 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">About Me</h3>
-<ul>
+<p style="margin-right: 10px"><ul>
   <li> I work as a Flutter developer at Cyberfort Technologies, where I have the exciting opportunity to be on the cutting edge of mobile application development. In my role, I'm responsible for designing and implementing cross-platform mobile applications using the Flutter framework. This cutting-edge technology allows us to create robust and visually appealing apps for both Android and iOS platforms.</li>
-  <li style="margin-top: 130px"> 💬Ask me about <b>Flutter Dart Android</b></li>
-  <li style="margin-top: 30px"> 📫 How to reach me <b>adeebabu655@gmail.com</b></li>
-</ul>
+</ul></p>
+
+<p><ul>
+  <li style="margin-top: 130px"> 💬Ask me about <b>Flutter Dart Android</b></li> </ul></p>
+  <p><ul>
+  <li style="margin-top: 130px">  📫 How to reach me <b>adeebabu655@gmail.com</b></li> </ul></p>
+
+
 
 
 
@@ -29,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeebabubacker&show_icons=true&locale=en" alt="adeebabubacker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeebabubacker&" alt="adeebabubacker" /></p>
+
