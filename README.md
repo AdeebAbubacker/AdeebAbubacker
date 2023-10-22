@@ -1,4 +1,6 @@
-[![MasterHead](https://giphy.com/gifs/hackernoon-hacker-noon-dZX3AduGrY3uJ7qCsx)](https://adeebabubacker.io)
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="logo" width="1200" height= "400">
+
+
 
 <h1 align="center">Hi 👋, I'm Adeeb Abubacker</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
