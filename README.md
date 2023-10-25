@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Adeeb Abubacker</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align ="right" alt="Coding" width="400"  style="margin-left: 10px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">About Me: </h3>
 <p style="margin-right: 10px"><ul>
